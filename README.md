@@ -32,51 +32,45 @@ This project includes both frontend (`client`) and backend (`server`) components
   - Custom media queries to adapt the layout for smaller screens.
 
 ---
-
-## Folder Structure
-
-The project structure includes two main folders:
-project-folder/
-│
-├── client/         # React frontend
-│   ├── public/
-│   └── src/
-│       ├── components/       # Contains reusable components
-│       ├── pages/            # Pages like Login, Register, Dashboard
-│       ├── App.js            # Main app component
-│       └── index.js          # Entry point for React
-│
-└── server/         # Node.js backend
-    ├── .env/
-    ├── authMiddlewares.js/                # MongoDB or SQL models for database structure
-    ├── index.js/                # Routes for login, registration, etc.
-    └── config/                # Database configuration
-
----
-
 ## Setup Instructions
 
 ### Prerequisites
 
 - **Node.js** and **npm**: Ensure you have Node.js and npm installed.
-- **Database**: This project requires MongoDB (or MySQL if specified) to store user credentials.
+- **Database**: This project requires MySQL to store user credentials.
 
-### Backend (Server) Setup
+## How to Run
 
-1. Navigate to the `server` folder:
+1. **Clone the repository**:
    ```bash
-   cd server
-2. Install dependencies:
-3. Set up environment variables:
+   git clone https://github.com/Farhaan114/Login-functionality.git
+   cd Login-functionality
+   ```
 
--Create a .env file in the server directory.
--Add the following variables:
-  ```bash
-  DB_HOST=hostname
-  DB_USER=username
-  DB_PASSWORD=password
-  DB_NAME=db_name
-  JWT_SECRET=your_jwt_key'
+2. **Install dependencies**:
+   - For backend:
+     ```bash
+     cd SERVER
+     npm install
+     ```
+   - For frontend:
+     ```bash
+     cd CLIENT
+     npm install
+     ```
+
+3. **Set up MySQL database**:
+   - Create a database and import the provided schema in the `/SERVER/schema.sql` file.
+
+4. **Start the server**:
+   ```bash
+   npm start
+   ```
+
+5. **Run the frontend**:
+   ```bash
+   npm run dev
+   ```
 
 
 
