@@ -94,12 +94,7 @@ This project includes both frontend (`client`) and backend (`server`) components
 
 You can test and view all API endpoints using the Postman documentation linked below:
 
-- [API Documentation (Postman Collection)]([https://link-to-your-postman-collection](https://api.postman.com/collections/36006187-f67c7217-0aef-40ce-9cb7-9e6e6e2bb707?access_key=PMAT-01JBQ2B3Y8THPCXM3EXH1WZDJW))
-
-
-
-
-
+- [API Documentation (Postman Collection]( https://web.postman.co/workspace/Tasks~c69016f5-6fe4-43e3-8e5a-83f20afdb7be/collection/36006187-f67c7217-0aef-40ce-9cb7-9e6e6e2bb707 )
 
 
 
