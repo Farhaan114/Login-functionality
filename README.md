@@ -3,13 +3,19 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Folder Structure](#folder-structure)
 4. [Setup Instructions](#setup-instructions)
 5. [Usage](#usage)
 6. [Screenshots](#screenshots)
 7. [API Documentation](#api-documentation)
 8. [Workflow](#workflow)
 9. [Media Queries and Responsiveness](#media-queries-and-responsiveness)
+
+---
+Demo: 
+
+![Login Functionality - Google Chrome 2024-11-02 23-24-55](https://github.com/user-attachments/assets/3b2a41ba-ef7a-45f0-bbe0-583a647bc83b)
+
+
 
 ---
 
