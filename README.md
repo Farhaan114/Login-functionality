@@ -3,20 +3,9 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
+3. [Screenshots](#screenshots)
 4. [Setup Instructions](#setup-instructions)
-6. [Screenshots](#screenshots)
-7. [API Documentation](#api-documentation)
-
----
-## Screenshots
--**Login Page:**
-![image](https://github.com/user-attachments/assets/52899a17-5d82-4227-9339-65c0ee1e90f0)
-
--**Register Page:**
-![image](https://github.com/user-attachments/assets/d3545619-ed61-421e-957e-773923e8900a)
-
--**Redirection after secure login to content:**
-![image](https://github.com/user-attachments/assets/b2acc962-6ead-4100-b76c-49fa0ea45751)
+5. [API Documentation](#api-documentation)
 
 ---
 
@@ -37,6 +26,17 @@ This project includes both frontend (`client`) and backend (`server`) components
 - **Media Queries and Responsive Design**
   - Fully responsive design to ensure usability on mobile devices.
   - Custom media queries to adapt the layout for smaller screens.
+
+---
+## Screenshots
+-**Login Page:**
+![image](https://github.com/user-attachments/assets/52899a17-5d82-4227-9339-65c0ee1e90f0)
+
+-**Register Page:**
+![image](https://github.com/user-attachments/assets/d3545619-ed61-421e-957e-773923e8900a)
+
+-**Redirection after secure login to content:**
+![image](https://github.com/user-attachments/assets/b2acc962-6ead-4100-b76c-49fa0ea45751)
 
 ---
 ## Setup Instructions
