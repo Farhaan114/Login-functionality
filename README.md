@@ -52,4 +52,36 @@ project-folder/
     ├── index.js/                # Routes for login, registration, etc.
     └── config/                # Database configuration
 
+---
+
+## Setup Instructions
+
+### Prerequisites
+
+- **Node.js** and **npm**: Ensure you have Node.js and npm installed.
+- **Database**: This project requires MongoDB (or MySQL if specified) to store user credentials.
+
+### Backend (Server) Setup
+
+1. Navigate to the `server` folder:
+   ```bash
+   cd server
+2. Install dependencies:
+3. Set up environment variables:
+
+-Create a .env file in the server directory.
+-Add the following variables:
+  ```bash
+  DB_HOST=hostname
+  DB_USER=username
+  DB_PASSWORD=password
+  DB_NAME=db_name
+  JWT_SECRET=your_jwt_key'
+
+
+
+
+
+
+
 
