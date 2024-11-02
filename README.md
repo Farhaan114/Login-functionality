@@ -60,7 +60,7 @@ This project includes both frontend (`client`) and backend (`server`) components
      ```
 
 3. **Set up MySQL database**:
-   - Create a database and import the provided schema in the `/SERVER/schema.sql` file.
+   - Create a database and import the provided schema in the `/SERVER/Server.sql` file.
 
 4. **Start the server**:
    ```bash
