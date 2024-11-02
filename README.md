@@ -61,6 +61,16 @@ This project includes both frontend (`client`) and backend (`server`) components
 
 3. **Set up MySQL database**:
    - Create a database and import the provided schema in the `/SERVER/Server.sql` file.
+  
+4. **Create a `.env` file**:
+   ```bash
+    DB_HOST=localhost
+    DB_USER=db_user
+    DB_PASSWORD=password
+    DB_NAME=db_name
+    JWT_SECRET=your_jwt_key
+
+   ```
 
 4. **Start the server**:
    ```bash
