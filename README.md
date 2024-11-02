@@ -4,18 +4,19 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 4. [Setup Instructions](#setup-instructions)
-5. [Usage](#usage)
 6. [Screenshots](#screenshots)
 7. [API Documentation](#api-documentation)
-8. [Workflow](#workflow)
-9. [Media Queries and Responsiveness](#media-queries-and-responsiveness)
 
 ---
-Demo: 
+## Screenshots
+-**Login Page:**
+![image](https://github.com/user-attachments/assets/52899a17-5d82-4227-9339-65c0ee1e90f0)
 
-![Login Functionality - Google Chrome 2024-11-02 23-24-55](https://github.com/user-attachments/assets/3b2a41ba-ef7a-45f0-bbe0-583a647bc83b)
+-**Register Page:**
+![image](https://github.com/user-attachments/assets/d3545619-ed61-421e-957e-773923e8900a)
 
-
+-**Redirection after secure login to content:**
+![image](https://github.com/user-attachments/assets/b2acc962-6ead-4100-b76c-49fa0ea45751)
 
 ---
 
@@ -87,6 +88,9 @@ This project includes both frontend (`client`) and backend (`server`) components
    ```bash
    npm run dev
    ```
+---
+## API Documentation
+
 
 
 
